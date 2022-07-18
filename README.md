@@ -6,6 +6,7 @@
 - [How to reach out](#how-to-reach-out)
 
 ### About
+
 Hi, I'm an 18 year old programmer from Germany, who specicificly focuses on fullstack webdevelopment and app development for browser or windows.
 
 ### What I know
