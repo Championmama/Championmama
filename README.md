@@ -3,7 +3,7 @@
 
 | Langages | Experience | Frameworks | Example Projects|
 |---|---|---|---|
-| Javascript | &#9733 &#9733 &#9733 &#9733 &#9733 | React, Nodejs, react-router, Discordjs, Websocket, nextjs, GoogleApis| Fullstack Website, Discord Bot, Pokemon Wiki Website, tournament Manager |
+| Javascript | &#9733; &#9733; &#9733; &#9733; &#9733; | React, Nodejs, react-router, Discordjs, Websocket, nextjs, GoogleApis| Fullstack Website, Discord Bot, Pokemon Wiki Website, tournament Manager |
 
 
 
