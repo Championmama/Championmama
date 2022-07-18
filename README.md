@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @Championmama
-- 👀 I’m interested in ...
+
+
+| Langages | Experience | Frameworks | Example Projects|
+|---|---|---|---|
+| Javascript | &#9733 &#9733 &#9733 &#9733 &#9733 | React, Nodejs, react-router, Discordjs, Websocket, nextjs, GoogleApis| Fullstack Website, Discord Bot, Pokemon Wiki Website, tournament Manager |
+
+
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
